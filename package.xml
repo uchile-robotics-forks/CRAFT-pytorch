@@ -1,0 +1,22 @@
+<package>
+
+  <name>craft</name>
+  <version>0.0.1</version>
+  <description>
+    CRAFT implementation in pytorch.
+  </description>
+  <author>John Doe</author>
+  <maintainer email="giom.pais@gmail.com">Michael Ferguson</maintainer>
+  <license>BSD</license>
+  <url></url>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>actionlib</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>python-pyassimp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>shape_msgs</run_depend>
+  <run_depend>tf</run_depend>
+
+</package>
